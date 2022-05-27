@@ -6,6 +6,11 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   const [wows, setWows] = useState([
     {
+      'Num': 0,
+      'title': "Intro",
+      'description': "Kyu beta ji? Laga hoga ki m nahi banaunga? Ye lo!"
+    },
+    {
       'Num': 1,
       'title': "Dancing",
       'description': "Itna to pakka h ki aap best dancer hoge jisse ajtak mne baat ki h. Anjali se to boht hi accha dance karte hoge."
