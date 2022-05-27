@@ -145,6 +145,10 @@ export default function Home() {
       'title': "Random harkate bhi karte ho",
       'description': "Yaad h na raat ko 2 baje gaaliyaan di mujhe?"
     },
+    {
+      'Num': 28,
+      'title': "You're the besttttttttt"
+    }
   ])
   const [currWow, setCurrWow] = useState(0)
   return (
